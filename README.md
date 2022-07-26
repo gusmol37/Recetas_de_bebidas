@@ -1,5 +1,5 @@
 # Recetas_de_bebidas
-Aplicación para la búsqueda rápida de recetas y preparación de bebidas. Realizada en REACT. Para ejecutarla, se debe correr el comando "npm install". Seguidamente, se debe correr el comando "npm start". La aplicación permite realizar la búsqueda teniendo como referencia dos criterios de búsqueda, el ingrediente principal y categoría. Esta última se refiere a la presentación de la bebida. Un vez seleccionada la opción que elijamos, se despliega una ventana secundaria con el nombre de la bebida, instrucciones para su preapración y los ingredientes que debe llevar.    
+Aplicación para la búsqueda rápida de recetas y preparación de bebidas. Realizada en REACT. Para ejecutarla, se debe correr el comando "npm install". Seguidamente, se debe correr el comando "npm start". Luego abra en el navegador la URL http://localhost:3000/. La aplicación permite realizar la búsqueda teniendo como referencia dos criterios de búsqueda, el ingrediente principal y categoría. Esta última se refiere a la presentación de la bebida. Un vez seleccionada la opción que elijamos, se despliega una ventana secundaria con el nombre de la bebida, instrucciones para su preapración y los ingredientes que debe llevar.    
 ![image](https://user-images.githubusercontent.com/86698059/181044478-92ca27e0-fb38-43fb-81e9-53134fb25405.png)
 
 # Criterios de búsqueda
